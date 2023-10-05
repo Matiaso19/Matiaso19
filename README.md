@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Mi nombre es Matias Olivera soy full stack developer 👨‍💻 graduado en Soy Henry 🚀</div>  
+### <div align="center">Hola! Soy Matias Olivera Full Stack developer 👨‍💻 graduado en Soy Henry 🚀</div>  
   
 
 - 🔭 Actualmente estoy buscando mi primer trabajo IT  
