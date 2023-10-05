@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy Matias Olivera desarrollador full-stack graduado en Henry 🚀</div>  
+### <div align="center">Soy Matias Olivera desarrollador full-stack graduado en Henry 🚀 aca va mi about!!!!</div>  
   
 
 - 🔭 Actualmente estoy buscando mi primer trabajo IT !  
@@ -73,9 +73,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
