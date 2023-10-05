@@ -6,7 +6,7 @@
 ### <div align="center">Soy Matias Olivera desarrollador full-stack graduado en Henry 🚀 aca va mi about!!!!</div>  
   
 
-- 🔭 Actualmente estoy buscando mi primer trabajo IT !  
+- 🔭 Actualmente estoy buscando mi primer trabajo IT !  Me encanta resolver problemas 
   
 
 <br/>  
