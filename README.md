@@ -10,9 +10,8 @@
   
 
 - 🌱Estoy Aprendiendo: 
-Tailwind, 
-MongoDB, 
-Typescript  
+Java,
+Spring Boot  
   
 
 -  Me encantan los desafíos, aprender cosas nuevas y resolver problemas! 😄  
